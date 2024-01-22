@@ -4,4 +4,4 @@ https://user-images.githubusercontent.com/93624006/204432028-2ddf94a4-e980-4905-
 
 Course work from this class.
 
-The HappyCitizens Repository is also part of this course.
+The HappyCitizens Repository is also part of this course work.
